@@ -1,3 +1,3 @@
 # societree
 this is the front end of the SocieTree
-hii how are you
+and i will soon develop a complete website using mern stack
